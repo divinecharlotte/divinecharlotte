@@ -2,8 +2,8 @@
 
 
 
-                             🔭 I’m  a software develpoer student  based in Kigali-Rwanda. I enjoy making web applications.
-                             I yearn to always learn more to become a better programmer and version of myself.
+                      🔭 I’m  a software develpoer student  based in Kigali-Rwanda. I enjoy making web applications.
+                         I yearn to always learn more to become a better programmer and version of myself.
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
