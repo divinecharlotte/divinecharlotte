@@ -10,7 +10,7 @@
 const divinecharlotte = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["she", "her"],
-  code: [JavaScript, HTML/CSS, Bootstrap],
+  code: [JavaScript,React&Redux, HTML/CSS, Bootstrap,Ruby On Rails],
   askMeAbout: [doxy, The 1975, food recipes, renovation shows],
   challenge: "I am honing my Javascript skills and picking up TypeScript",
   funFacts: ['I have less than 1 year of remote work experience with devs 
