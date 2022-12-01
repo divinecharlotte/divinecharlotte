@@ -11,7 +11,7 @@ const divinecharlotte = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["she", "her"],
   code: [JavaScript, React & Redux, HTML/CSS, Bootstrap,Ruby On Rails],
-  askMeAbout: [doxy, The 1975, food recipes, renovation shows],
+  askMeAbout: [doxy, music, food recipes, renovation shows],
   challenge: "I am honing my Javascript skills and picking up TypeScript",
   funFacts: ['I have less than 1 year of remote work experience with devs 
   from all over the world', 
@@ -31,7 +31,7 @@ const divinecharlotte = {
 ![divinecharlotte's GitHub stats](https://github-readme-stats.vercel.app/api?username=divinecharlotte&count_private=true&theme=dark&show_icons=true&bg_color=F6F8FA0F&title_color=00DB49&text_color=8A8FA0&icon_color=FFBC00&border_color=AFB8C175)
 
 ## What I'm doing now
-🔭 Student at Microverse
+- currently on the lookout for new opportunities
 
 🌱 Enhancing my full-stack developer skills everyday
 
